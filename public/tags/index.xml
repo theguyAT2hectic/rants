@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on 2 Hectic</title>
-    <link>http://localhost:1314/tags/</link>
+    <link>https://rants.2hectic.com/tags/</link>
     <description>Recent content in Tags on 2 Hectic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rants.2hectic.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AA</title>
-      <link>http://localhost:1314/tags/aa/</link>
+      <link>https://rants.2hectic.com/tags/aa/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/tags/aa/</guid>
+      <guid>https://rants.2hectic.com/tags/aa/</guid>
       <description></description>
     </item>
     <item>
       <title>Addiction</title>
-      <link>http://localhost:1314/tags/addiction/</link>
+      <link>https://rants.2hectic.com/tags/addiction/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/tags/addiction/</guid>
+      <guid>https://rants.2hectic.com/tags/addiction/</guid>
       <description></description>
     </item>
     <item>
       <title>Politics</title>
-      <link>http://localhost:1314/tags/politics/</link>
+      <link>https://rants.2hectic.com/tags/politics/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/tags/politics/</guid>
+      <guid>https://rants.2hectic.com/tags/politics/</guid>
       <description></description>
     </item>
     <item>
       <title>Power</title>
-      <link>http://localhost:1314/tags/power/</link>
+      <link>https://rants.2hectic.com/tags/power/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/tags/power/</guid>
+      <guid>https://rants.2hectic.com/tags/power/</guid>
       <description></description>
     </item>
     <item>
       <title>Recovery</title>
-      <link>http://localhost:1314/tags/recovery/</link>
+      <link>https://rants.2hectic.com/tags/recovery/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/tags/recovery/</guid>
+      <guid>https://rants.2hectic.com/tags/recovery/</guid>
       <description></description>
     </item>
     <item>
       <title>Levinas</title>
-      <link>http://localhost:1314/tags/levinas/</link>
+      <link>https://rants.2hectic.com/tags/levinas/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/tags/levinas/</guid>
+      <guid>https://rants.2hectic.com/tags/levinas/</guid>
       <description></description>
     </item>
     <item>
       <title>Phenomenology</title>
-      <link>http://localhost:1314/tags/phenomenology/</link>
+      <link>https://rants.2hectic.com/tags/phenomenology/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/tags/phenomenology/</guid>
+      <guid>https://rants.2hectic.com/tags/phenomenology/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:1314/tags/philosophy/</link>
+      <link>https://rants.2hectic.com/tags/philosophy/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/tags/philosophy/</guid>
+      <guid>https://rants.2hectic.com/tags/philosophy/</guid>
       <description></description>
     </item>
   </channel>

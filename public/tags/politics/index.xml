@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Politics on 2 Hectic</title>
-    <link>http://localhost:1314/tags/politics/</link>
+    <link>https://rants.2hectic.com/tags/politics/</link>
     <description>Recent content in Politics on 2 Hectic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1314/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rants.2hectic.com/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nobody Move, Nobody Gets Hurt</title>
-      <link>http://localhost:1314/recovery/nobody-move/</link>
+      <link>https://rants.2hectic.com/essays/nobody-move/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/recovery/nobody-move/</guid>
+      <guid>https://rants.2hectic.com/essays/nobody-move/</guid>
       <description>This statement or its implication reveals fear - the fear that the recipient becomes aware of how precarious this apparent power imbalance is.</description>
     </item>
   </channel>
