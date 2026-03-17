@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2 Hectic</title>
+    <link>http://localhost:1314/</link>
+    <description>Recent content on 2 Hectic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freedom &amp; Liberty</title>
+      <link>http://localhost:1314/drafts/freedom-and-liberty/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/drafts/freedom-and-liberty/</guid>
+      <description>These terms seem to be used interchangeably when they, in fact, have an inverse relationship.</description>
+    </item>
+    <item>
+      <title>In Defense of AA</title>
+      <link>http://localhost:1314/recovery/in-defense-of-aa/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/recovery/in-defense-of-aa/</guid>
+      <description>Much like Catholicism, dismissing the efficacy of 12-step solutions because of their practitioners is sort of insane.</description>
+    </item>
+    <item>
+      <title>Nobody Move, Nobody Gets Hurt</title>
+      <link>http://localhost:1314/essays/nobody-move/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/essays/nobody-move/</guid>
+      <description>This statement or its implication reveals fear - the fear that the recipient becomes aware of how precarious this apparent power imbalance is.</description>
+    </item>
+    <item>
+      <title>A Phenomenological Exploration of the Ontological Effects of Alcohol and Drug Addiction</title>
+      <link>http://localhost:1314/philosophy/phenomenology-of-addiction/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/philosophy/phenomenology-of-addiction/</guid>
+      <description>The intention of this paper is to introduce the idea that experiencing an alcoholic bottom is akin to a trauma.</description>
+    </item>
+  </channel>
+</rss>

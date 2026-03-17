@@ -1,0 +1,42 @@
+baseURL = "https://rants.2hectic.com/"
+languageCode = "en-us"
+title = "2 Hectic"
+theme = "PaperMod"
+
+[params]
+  author = "J. McMullen"
+  description = "Philosophy, recovery, politics, and other528 528 digressions."
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowShareButtons = false
+  defaultTheme = "auto"
+
+[params.homeInfoParams]
+  Title = "2 Hectic"
+  Content = "Works in progress. Drafts. Digressions. Eventually a coherent body of work."
+
+[menu]
+  [[menu.main]]
+    name = "Essays"
+    url = "/essays/"
+    weight = 1
+  [[menu.main]]
+    name = "Recovery"
+    url = "/recovery/"
+    weight = 2
+  [[menu.main]]
+    name = "Philosophy"
+    url = "/philosophy/"
+    weight = 3
+  [[menu.main]]
+    name = "Drafts"
+    url = "/drafts/"
+    weight = 4
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+  

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Levinas on 2 Hectic</title>
+    <link>http://localhost:1314/tags/levinas/</link>
+    <description>Recent content in Levinas on 2 Hectic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/levinas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Phenomenological Exploration of the Ontological Effects of Alcohol and Drug Addiction</title>
+      <link>http://localhost:1314/philosophy/phenomenology-of-addiction/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1314/philosophy/phenomenology-of-addiction/</guid>
+      <description>The intention of this paper is to introduce the idea that experiencing an alcoholic bottom is akin to a trauma.</description>
+    </item>
+  </channel>
+</rss>
