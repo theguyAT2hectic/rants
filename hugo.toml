@@ -17,7 +17,7 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowShareButtons = false
   defaultTheme = "auto"
-    fingerprint = false
+  fingerprint = false
 
 [params.homeInfoParams]
   Title = "2 Hectic"
