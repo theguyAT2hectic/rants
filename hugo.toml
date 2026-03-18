@@ -7,6 +7,8 @@ theme = "PaperMod"
   [build.cachebusters]
     source = ""
     target = ""
+[params]
+    fingerprint = false
     
 [params]
   author = "J. McMullen"
@@ -16,7 +18,7 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowShareButtons = false
   defaultTheme = "auto"
-  fingerprint = false
+
 
 [params.homeInfoParams]
   Title = "2 Hectic"
