@@ -8,8 +8,8 @@ theme = "PaperMod"
     source = ""
     target = ""
 [params]
-    fingerprint = false
-    
+
+
 [params]
   author = "J. McMullen"
   description = "Philosophy, recovery, politics, and other528 528 digressions."
@@ -18,7 +18,7 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowShareButtons = false
   defaultTheme = "auto"
-
+    fingerprint = false
 
 [params.homeInfoParams]
   Title = "2 Hectic"
