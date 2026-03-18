@@ -17,9 +17,10 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowShareButtons = false
   defaultTheme = "auto"
-  fingerprint = false
-  assets.disableFingerprinting = true
-  
+
+[params.assets]
+  disableFingerprinting = true
+
 [params.homeInfoParams]
   Title = "2 Hectic"
   Content = "Works in progress. Drafts. Digressions. Eventually a coherent body of work."
