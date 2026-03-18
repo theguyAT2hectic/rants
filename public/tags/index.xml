@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on 2 Hectic</title>
+    <link>https://rants.2hectic.com/tags/</link>
+    <description>Recent content in Tags on 2 Hectic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rants.2hectic.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AA</title>
+      <link>https://rants.2hectic.com/tags/aa/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rants.2hectic.com/tags/aa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Addiction</title>
+      <link>https://rants.2hectic.com/tags/addiction/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rants.2hectic.com/tags/addiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politics</title>
+      <link>https://rants.2hectic.com/tags/politics/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rants.2hectic.com/tags/politics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Power</title>
+      <link>https://rants.2hectic.com/tags/power/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rants.2hectic.com/tags/power/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recovery</title>
+      <link>https://rants.2hectic.com/tags/recovery/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rants.2hectic.com/tags/recovery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Levinas</title>
+      <link>https://rants.2hectic.com/tags/levinas/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://rants.2hectic.com/tags/levinas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phenomenology</title>
+      <link>https://rants.2hectic.com/tags/phenomenology/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://rants.2hectic.com/tags/phenomenology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>https://rants.2hectic.com/tags/philosophy/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://rants.2hectic.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

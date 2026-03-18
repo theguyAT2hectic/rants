@@ -7,7 +7,6 @@ theme = "PaperMod"
   [build.cachebusters]
     source = ""
     target = ""
-[params]
 
 
 [params]
