@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Kenny G and Docs at Macy's as parallel mechanisms
 The sax guy archetype — Tim Cappello, Clarence Clemons, the cultural weight of the instrument
 The sax as uniquely cool because it transferred decades of jazz mythology instantly and required no athletic performance the way guitar heroism did

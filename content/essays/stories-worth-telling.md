@@ -1,7 +1,7 @@
 ---
 title: "The story we need"
 date: 2025-08-13
-draft: false
+draft: true
 description: "We need a new story"
 tags: ["philosophy", "politics", "life"]
 ----

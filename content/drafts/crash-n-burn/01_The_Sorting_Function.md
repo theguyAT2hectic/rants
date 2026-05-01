@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Counter culture attracts a specific personality type — creative, dynamic, character driven, instinctively rejecting received authority
 The early 90s alt scene as proof — not one genre but one ethos cutting across punk, industrial, goth, folk, synth
 The 100 record collection argument — Pretty Hate Machine next to Flood next to Disintegration next to Never Mind the Bollocks. Not random, coherent

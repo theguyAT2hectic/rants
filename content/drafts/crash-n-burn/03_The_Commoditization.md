@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Lollapalooza 1991 as genuinely radical curatorial act — the 100 record collection made into a festival
 First lineup as argument — Nine Inch Nails, Rollins, Siouxsie, Ice-T, all saying these things belong in conversation
 Lollapalooza now as luxury brand experience driven by streaming data and sponsorship

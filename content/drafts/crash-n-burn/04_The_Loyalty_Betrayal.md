@@ -1,3 +1,8 @@
+---
+draft: true
+---
+
+
 Gen X specific injury — told the ethos was real, loyalty would be reciprocated, hard work would be honored
 Boomers got the gold watch even if it was transactional. Gen Z never expected anything so they optimized accordingly. Gen X internalized the loyalty ethic and got used
 The workplace as pure contract — do what you're paid for and nothing more, no mission, no growing together
