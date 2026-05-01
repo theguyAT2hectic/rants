@@ -1,3 +1,8 @@
+---
+draft: true
+---
+
+
 The window between authentic expression and optimization has collapsed to zero
 Sellout implies something pure that got corrupted — now the corruption is baked into the original intent
 The algorithm as invisible co-optation — indistinguishable from growth and self improvement

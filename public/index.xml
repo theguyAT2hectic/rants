@@ -1,82 +1,137 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2 Hectic</title>
-    <link>https://rants.2hectic.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 2 Hectic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rants.2hectic.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Popularity and Subversion</title>
+      <link>http://localhost:1313/drafts/popular/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/drafts/popular/</guid>
+      <description>&lt;h3 id=&#34;recently-john-lydon-good-thing-he-doesnt-go-by-rotten-anymore-because-he-doesnt-deserve-it-said-that-being-conservative-was-the-new-punk-because-punk-was-always-the-opposite-of-what-was-the-going-concensus-or-what-was-popular-and-sense-woke-is-popular-the-punk-thing-to-do-is-to-oppose-that-this-is-an-astonishingly-moronic-assertion-from-a-guy-that-i-assumed-got-it-didnt-he-have-to-get-it-wasnt-that-the-point-and-not-just-with-the-sex-pistols-but-on-to-pil-and-beyond-this-guy-got-it-right&#34;&gt;Recently, John Lydon (good thing he doesn&amp;rsquo;t go by Rotten anymore because he doesn&amp;rsquo;t deserve it) said that being conservative was the new punk because punk was always the opposite of what was the going concensus or &amp;lsquo;what was popular&amp;rsquo; and sense &amp;lsquo;woke&amp;rsquo; is popular, the punk thing to do is to oppose that. This is an astonishingly moronic assertion from a guy that I assumed got it. Didn&amp;rsquo;t he have to get it? Wasn&amp;rsquo;t that the point? And not just with the Sex Pistols, but on to PIL and beyond? This guy got it, right?&lt;/h3&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;ive-seen-this-before---in-highschool-i-came-of-age-in-the-80s-and-90s-and-gravitated-toward-the-punk-subculture---whatever-that-may-mean---once-i-got-to-highschool-before-the-grunge-scene-broke-the-alternative-scene-was-incredibly-heterogenous-you-saw-the-same-people-at-a-they-might-be-giants-show-that-you-saw-at-a-cure-show-that-you-saw-at-a-rancid-show---more-or-less-i-have-written-extensively-on-this-elsewhere-the-alternative-scene-was-perfectly-by-perry-ferrells-first-lollapalooza-that-lineup-defined-the-mentality-of-all-the-little-subculture-niches-of-alternative-on-one-stage-it-was-about-being-genuine-and-not-being-merely-a-commodity-it-was-all-diy-and-it-was-fringe&#34;&gt;I&amp;rsquo;ve seen this before - in highschool. I came of age in the 80&amp;rsquo;s and 90&amp;rsquo;s and gravitated toward the punk subculture - whatever that may mean - once I got to highschool. Before the grunge scene broke, the alternative scene was incredibly heterogenous. You saw the same people at a They Might Be Giants show that you saw at a Cure show that you saw at a Rancid show - more or less. I have written extensively on this elsewhere. The alternative scene was perfectly by Perry Ferrell&amp;rsquo;s first Lollapalooza. That lineup defined the mentality of all the little subculture niches of alternative on one stage: it was about being genuine and not being merely a commodity. It was all DIY and it was fringe.&lt;/h3&gt;
+&lt;br&gt; 
+&lt;p&gt;As a result, it was easy to differentiate ourselves from the Soc&amp;rsquo;s: they listened to pop music and shopped at Dillards; we listened to community radio shows on certain days at certain times and we shopped at Crash-n-Burn. When all the events of the mid-nineties combined and the results became apparent - Ministry stickers on Jocks&amp;rsquo; pickup trucks, Doc Martins at Dillards, Green Day on the top 40 - we had to intellectualize what we were about without the popularity heuristic.
+And we did. Well, a lot of us did. A lot of us grew up but some of us committed to the bit. We abhorred the sell-out in principle, but we understood that it had become a monster that artists had no control over. Formerly, we had been our own gatekeepers. We made mixes for our square friends that introduced them to some cool shit but we chose those people and gave them a chance to have a little taste of what we were doing. Sometimes they wanted to shift gears and change their scene; most just thought it gave them a little street cred to know a few things about x, y, or z and that was fine too. Now there was no gate to be kept. Record companies want to sell records, they kind of have to. That doesn&amp;rsquo;t justify the gross exploitation of artists but it does explain why we couldn&amp;rsquo;t count on them to hold the line. And the bands have no control once they&amp;rsquo;ve signed off and if you&amp;rsquo;re in a band and someone wants to make it so you can be a full time musician and not washing dishes at Perkins, you&amp;rsquo;re gonna take it unless you really have some spine. Ani Difranco held her ground and Righteous Babe survives untouched. Most of the other labels that our DIY heroes started got subsumed just like the music festivals.
+&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Freedom &amp; Liberty</title>
+      <link>http://localhost:1313/drafts/freedom-and-liberty/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/drafts/freedom-and-liberty/</guid>
+      <description>These terms seem to be used interchangeably when they, in fact, have an inverse relationship.</description>
+    </item>
     <item>
       <title>In Defense of AA</title>
-      <link>https://rants.2hectic.com/recovery/in-defense-of-aa/</link>
+      <link>http://localhost:1313/recovery/in-defense-of-aa/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://rants.2hectic.com/recovery/in-defense-of-aa/</guid>
-      <description>&lt;p&gt;Much like Catholicism, dismissing the efficacy of 12-step solutions because of their practitioners is sort of insane. In Catholicism, I’d say it was just what the devil wants. In sobriety, it’s just what my addiction wants.&lt;/p&gt;&#xA;&lt;p&gt;I’m going to digress for the first time of what will be several in this little note. If I have learned anything about opponents of any sort of organized thought, it is that they want to itemize the things they don’t like about it from soup to nuts. So I will not rely on a preamble here to do my dirty work and lay out the givens in this case. We will take everything as it may come from the belligerent.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/recovery/in-defense-of-aa/</guid>
+      <description>Much like Catholicism, dismissing the efficacy of 12-step solutions because of their practitioners is sort of insane.</description>
     </item>
     <item>
       <title>Nobody Move, Nobody Gets Hurt</title>
-      <link>https://rants.2hectic.com/essays/nobody-move/</link>
+      <link>http://localhost:1313/essays/nobody-move/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://rants.2hectic.com/essays/nobody-move/</guid>
-      <description>&lt;p&gt;This is everyone&amp;rsquo;s favorite part of the bank job. Our guys- we&amp;rsquo;re usually rooting for the robbers - are letting everyone know that they have no intention of committing wanton violence; they&amp;rsquo;re here for the bank&amp;rsquo;s money, not your money. You have no reason to be a hero, it will gain you nothing and we&amp;rsquo;ll be forced to maintain control by the means we have at our disposal. People will get hurt, it will be your fault and you&amp;rsquo;ll be right back in the same situation.&#xA;Unfortunately,  this is the least likely scenario that any of us will encounter where this sort of exchange takes place. I would love to watch a gang of tactically competent, smooth ass criminals walk out of a bank with untold riches. What is much more likely is that this is the tacit warning you will receive from an adversary, an abuser,  or an oppressor.&#xA;Behave. Don&amp;rsquo;t make me hurt you. Don&amp;rsquo;t force me to respond. Do not make waves. Do what you&amp;rsquo;re told or there will be consequences.&#xA;How are we to receive this message? Do we trust that this person, these people, this institution has only our best interest in mind and wants to protect us from our poor understanding of things? Are we perhaps not privvy to certain knowledge that justifies the need for subserviance in the name of the greater good?&#xA;The answer is always, without exception, &amp;ldquo;no.&amp;rdquo;&#xA;This statement or its implication reveals fear - the fear that the recipient becomes aware of how precarious this apparent power imbalance is.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/essays/nobody-move/</guid>
+      <description>This statement or its implication reveals fear - the fear that the recipient becomes aware of how precarious this apparent power imbalance is.</description>
     </item>
     <item>
       <title>The story we need</title>
-      <link>https://rants.2hectic.com/essays/stories-worth-telling/</link>
+      <link>http://localhost:1313/essays/stories-worth-telling/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://rants.2hectic.com/essays/stories-worth-telling/</guid>
-      <description>&lt;p&gt;-&lt;/p&gt;&#xA;&lt;p&gt;Times like this, we need stories. Personally, I like a nice heartwarming story about a kid and a horse. Or when kids get in over their heads and take on a little more than we think they&amp;rsquo;re capable of. Those are nice stories. They make me feel good. But feeling good doesn&amp;rsquo;t get you out of trouble. More often than not, it let&amp;rsquo;s you ignore the trouble until it&amp;rsquo;s knocking on your door. Even then, it can be tempting to hold your breath and mute the tv and duck under the covers - crouch and watch for shadows to stop moving under the door. Times like this we need a story about a person that&amp;rsquo;s just trying to keep his head down and be a worker among workers. You see this guy and he seems a little meek, but you&amp;rsquo;ve seen stories like this and your gut tells you that he&amp;rsquo;s just trying not to do something that&amp;rsquo;ll have consequences beyond his control. This guy has a past he isn&amp;rsquo;t all that comfortable with but, more than likely, afforded him a certain set of charater traits and skills that have a certain value in difficult circumstances. Liam Neeson&amp;rsquo;s warning to his daughter&amp;rsquo;s kidnapper  i &lt;em&gt;Taken&lt;/em&gt; captures this well - &amp;ldquo;&lt;em&gt;a very particular set of skills. Skills I have acquired over a very long career. Skills that make me a nightmare for people like you. . .&lt;/em&gt;&amp;rdquo; But these anti-heroes are always former elite-something-or-others: a gunfighter, a space coyboy, a Navy SEAL, some kind of hacker that was at MIT when he was 8. Such a resume gives the writer some freedom to get the character out of seemingly-impossible situations - situations that &lt;em&gt;are&lt;/em&gt; impossible for the layperson. But most of us &lt;em&gt;are&lt;/em&gt; &lt;em&gt;laypeople&lt;/em&gt;, or, more accurately, &lt;em&gt;I am&lt;/em&gt; and but I can hold my own from time-to-time.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/essays/stories-worth-telling/</guid>
+      <description>We need a new story</description>
     </item>
     <item>
       <title>A Phenomenological Exploration of the Ontological Effects of Alcohol and Drug Addiction</title>
-      <link>https://rants.2hectic.com/philosophy/phenomenology-of-addiction/</link>
+      <link>http://localhost:1313/philosophy/phenomenology-of-addiction/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://rants.2hectic.com/philosophy/phenomenology-of-addiction/</guid>
-      <description>&lt;p&gt;A Phenomenological Exploration of the Ontological Effects of Alcohol and Drug Addiction&lt;/p&gt;&#xA;&lt;p&gt;The intention of this paper is to introduce the idea that experiencing an alcoholic bottom is akin to a trauma of a kind and may, therefore, be the basis for cases of post-traumatic stress disorder (PTSD).  There are many cases wherein drug and/or alcohol abuse or addiction co-occurs with an instance of PTSD, but it is concluded or assumed that they are separate matters or, more often, that the PTSD has exacerbated a reaction in the form of addiction to cope with the symptoms.  I would like to suggest that the existential trauma experienced by the suffering alcoholic may be more pronounced than a mere state of being.  In &amp;ldquo;A Phenomenology of Addiction,&amp;rdquo; David Lenson attempts to provide a phenomenological account of the nature of addiction.  While his insights regarding temporality are interesting and will be explored in this paper, his focus on the mechanism of addiction, while topical, is not phenomenological insofar as it ignores the lived experience of the addict.  In his chapter, Lenson (1995) proposes that &amp;ldquo;Unless drinking comes to engulf all hours of the day. . . the division of the day into drinking and sober hours provides a relativity for time atomized by addiction. When one drinks all the time, that relativity is lost, and the drinker is &amp;lsquo;bottoming out.&amp;rsquo;  It is at this stage that drinkers either die or seek help&amp;rdquo; (p.44).  This is an oversimplification if not entirely inaccurate.  In fact, the focus of this paper is that the very stage of &amp;lsquo;bottoming out&amp;rsquo; is not so temporally distinct and an immediate vector towards death or recovery is rarely quickly determined.  Once the relativity of time is lost, the alcoholic is in a state of suspension that can last years or decades.  In this state one experiences the &amp;ldquo;existential vacuum&amp;rdquo; of which Victor Frankl speaks in his memoir of the death camps (2019, p.105).&lt;br&gt;&#xA;As I am not a psychiatrist, I cannot speak to an actual diagnosis of PTSD but I am able to assess and regurgitate the diagnostic criteria set forth in the discipline’s standard diagnostic text – the Diagnostic and Statistical Manual of Mental Disorders (DSM-V).  There are eight separate criteria for diagnosing PTSD:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/philosophy/phenomenology-of-addiction/</guid>
+      <description>The intention of this paper is to introduce the idea that experiencing an alcoholic bottom is akin to a trauma.</description>
     </item>
     <item>
       <title></title>
-      <link>https://rants.2hectic.com/drafts/crash-n-burn/00_front_matter/</link>
+      <link>http://localhost:1313/drafts/crash-n-burn/00_front_matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rants.2hectic.com/drafts/crash-n-burn/00_front_matter/</guid>
+      <guid>http://localhost:1313/drafts/crash-n-burn/00_front_matter/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think I&amp;rsquo;m alone in feeling like my life has a soundtrack, a lot of which is out of my control. As much as I try to curate the sounds I am surrounded by, a lot of stuff that I wouldn&amp;rsquo;t choose gets through and finds a salience in my little brain that triggers nearly a nearly disembodying sense of place and time. As much as I know that I don&amp;rsquo;t want to be a Dave Matthews fan, you couldn&amp;rsquo;t walk across my college campus in the Fall of &amp;lsquo;94 without hearing &amp;ldquo;Ants Marching&amp;rdquo; echoing out the windows of nearly every dorm you passed. He came up again on a night home from school a few years later with the release of their next album. My best friend from highschool, Dave, was in town, and we were driving to a little get-together that would be a memorable night. Dave had a habit of getting sucked into certain albums and it was infectious the way he made you believe it was the best thing around. This happened to us my senior year. Counting Crows &amp;ldquo;August and Everything After&amp;rdquo; is a funny one. First, he was obsessed with it but it was also one of the albums in the 5-disc changer at a restaurant I worked at. It usually came on early in the evening but I mostly remember hearing &amp;ldquo;&amp;lsquo;Round Here&amp;rdquo; late at night on its second rotation while I was stacking chairs and cleaning up. It was a bummer of a song and gelled with my feeling that I was going nowhere. I was supposed to head off to the aforementioned college in the Fall, but my grades my last semester were less than stellar. I got a letter from them in the mail asking me to offer an explaination. I never responded. I didn&amp;rsquo;t know how, or I was overwhelmed with fear, or whatever but I didn&amp;rsquo;t so I assumed I was going to get a subsequent letter telling me to fuck off and I was going to spend the rest of my life bussing tables at Bobby&amp;rsquo;s Bistro. Meanwhile, Dave would blare &amp;ldquo;Mr. Jones&amp;rdquo; and rock out in the car and we&amp;rsquo;d have a blast. He did this with Green Day&amp;rsquo;s &amp;ldquo;Dookie&amp;rdquo; as well. You&amp;rsquo;ll notiec this were all very popular albums. It really ruined his street cred but it was infectious the way he made you believe him. He&amp;rsquo;d do it in subsequent years with other albums and he actually got me and my now wife to come out to Coachella the year of the indie bands.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://rants.2hectic.com/drafts/crash-n-burn/01_the_sorting_function/</link>
+      <link>http://localhost:1313/drafts/crash-n-burn/01_the_sorting_function/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rants.2hectic.com/drafts/crash-n-burn/01_the_sorting_function/</guid>
-      <description>&lt;p&gt;Counter culture attracts a specific personality type — creative, dynamic, character driven, instinctively rejecting received authority&#xA;The early 90s alt scene as proof — not one genre but one ethos cutting across punk, industrial, goth, folk, synth&#xA;The 100 record collection argument — Pretty Hate Machine next to Flood next to Disintegration next to Never Mind the Bollocks. Not random, coherent&#xA;DIY as the connective tissue — Ani DiFranco, Wax Trax, Ministry, all operating outside the system simultaneously&#xA;The record store and the venue as institutions that transmitted values through friction and curation&#xA;Crash-n-Burn specifically — the smell, the selection, the guy behind the counter with actual skin in the game&#xA;The D&amp;amp;D nerds are worker bees, the counter culture kids become the creators and leaders — people who evaluate individuals not products&lt;/p&gt;</description>
+      <guid>http://localhost:1313/drafts/crash-n-burn/01_the_sorting_function/</guid>
+      <description>&lt;p&gt;Counter culture attracts a specific personality type — creative, dynamic, character driven, instinctively rejecting received authority
+The early 90s alt scene as proof — not one genre but one ethos cutting across punk, industrial, goth, folk, synth
+The 100 record collection argument — Pretty Hate Machine next to Flood next to Disintegration next to Never Mind the Bollocks. Not random, coherent
+DIY as the connective tissue — Ani DiFranco, Wax Trax, Ministry, all operating outside the system simultaneously
+The record store and the venue as institutions that transmitted values through friction and curation
+Crash-n-Burn specifically — the smell, the selection, the guy behind the counter with actual skin in the game
+The D&amp;amp;D nerds are worker bees, the counter culture kids become the creators and leaders — people who evaluate individuals not products&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://rants.2hectic.com/drafts/crash-n-burn/02_the_contamination_model/</link>
+      <link>http://localhost:1313/drafts/crash-n-burn/02_the_contamination_model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rants.2hectic.com/drafts/crash-n-burn/02_the_contamination_model/</guid>
-      <description>&lt;p&gt;Kenny G and Docs at Macy&amp;rsquo;s as parallel mechanisms&#xA;The sax guy archetype — Tim Cappello, Clarence Clemons, the cultural weight of the instrument&#xA;The sax as uniquely cool because it transferred decades of jazz mythology instantly and required no athletic performance the way guitar heroism did&#xA;Duotones 1986 — five million records, slow contamination begins&#xA;Breathless 1992 — twelve million records, total name brand capture of the instrument&#xA;The soprano saxophone specifically dragging down the entire family&#xA;The aesthetic without the ethos — you can buy the signifier but the meaning doesn&amp;rsquo;t transfer&#xA;Docs at Macy&amp;rsquo;s — the object unchanged, the meaning completely evacuated&#xA;The friction of finding the thing was how the values got transmitted. Remove the friction and you have a boot with no soul&lt;/p&gt;</description>
+      <guid>http://localhost:1313/drafts/crash-n-burn/02_the_contamination_model/</guid>
+      <description>&lt;p&gt;Kenny G and Docs at Macy&amp;rsquo;s as parallel mechanisms
+The sax guy archetype — Tim Cappello, Clarence Clemons, the cultural weight of the instrument
+The sax as uniquely cool because it transferred decades of jazz mythology instantly and required no athletic performance the way guitar heroism did
+Duotones 1986 — five million records, slow contamination begins
+Breathless 1992 — twelve million records, total name brand capture of the instrument
+The soprano saxophone specifically dragging down the entire family
+The aesthetic without the ethos — you can buy the signifier but the meaning doesn&amp;rsquo;t transfer
+Docs at Macy&amp;rsquo;s — the object unchanged, the meaning completely evacuated
+The friction of finding the thing was how the values got transmitted. Remove the friction and you have a boot with no soul&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://rants.2hectic.com/drafts/crash-n-burn/03_the_commoditization/</link>
+      <link>http://localhost:1313/drafts/crash-n-burn/03_the_commoditization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rants.2hectic.com/drafts/crash-n-burn/03_the_commoditization/</guid>
-      <description>&lt;p&gt;Lollapalooza 1991 as genuinely radical curatorial act — the 100 record collection made into a festival&#xA;First lineup as argument — Nine Inch Nails, Rollins, Siouxsie, Ice-T, all saying these things belong in conversation&#xA;Lollapalooza now as luxury brand experience driven by streaming data and sponsorship&#xA;Vans Warped Tour — maintained pretense of punk ethics longer while systematically gutting them&#xA;Wax Trax model — six guys combinatorially making dozens of bands, rewarding deep literacy, resisting single marketable identity&#xA;The founders getting pushed out or selling out — Perry Farrell, Kevin Lyman&#xA;Every niche apparel brand getting bought out and junkified — your wife&amp;rsquo;s experience in women&amp;rsquo;s athletic apparel as lived example&#xA;The people who built things getting discarded when the asset got extracted — your mother&amp;rsquo;s story as the human cost&lt;/p&gt;</description>
+      <guid>http://localhost:1313/drafts/crash-n-burn/03_the_commoditization/</guid>
+      <description>&lt;p&gt;Lollapalooza 1991 as genuinely radical curatorial act — the 100 record collection made into a festival
+First lineup as argument — Nine Inch Nails, Rollins, Siouxsie, Ice-T, all saying these things belong in conversation
+Lollapalooza now as luxury brand experience driven by streaming data and sponsorship
+Vans Warped Tour — maintained pretense of punk ethics longer while systematically gutting them
+Wax Trax model — six guys combinatorially making dozens of bands, rewarding deep literacy, resisting single marketable identity
+The founders getting pushed out or selling out — Perry Farrell, Kevin Lyman
+Every niche apparel brand getting bought out and junkified — your wife&amp;rsquo;s experience in women&amp;rsquo;s athletic apparel as lived example
+The people who built things getting discarded when the asset got extracted — your mother&amp;rsquo;s story as the human cost&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://rants.2hectic.com/drafts/crash-n-burn/04_the_loyalty_betrayal/</link>
+      <link>http://localhost:1313/drafts/crash-n-burn/04_the_loyalty_betrayal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rants.2hectic.com/drafts/crash-n-burn/04_the_loyalty_betrayal/</guid>
-      <description>&lt;p&gt;Gen X specific injury — told the ethos was real, loyalty would be reciprocated, hard work would be honored&#xA;Boomers got the gold watch even if it was transactional. Gen Z never expected anything so they optimized accordingly. Gen X internalized the loyalty ethic and got used&#xA;The workplace as pure contract — do what you&amp;rsquo;re paid for and nothing more, no mission, no growing together&#xA;Startup ethos as the last refuge — but only until acquisition&#xA;Your mother building an occupational health empire, the founder selling, her left with nothing&#xA;Being monitored like a consultant while being treated like neither employee nor truly independent&#xA;The same extraction mechanism that hollowed out the culture hollowed out the workplace&lt;/p&gt;</description>
+      <guid>http://localhost:1313/drafts/crash-n-burn/04_the_loyalty_betrayal/</guid>
+      <description>&lt;p&gt;Gen X specific injury — told the ethos was real, loyalty would be reciprocated, hard work would be honored
+Boomers got the gold watch even if it was transactional. Gen Z never expected anything so they optimized accordingly. Gen X internalized the loyalty ethic and got used
+The workplace as pure contract — do what you&amp;rsquo;re paid for and nothing more, no mission, no growing together
+Startup ethos as the last refuge — but only until acquisition
+Your mother building an occupational health empire, the founder selling, her left with nothing
+Being monitored like a consultant while being treated like neither employee nor truly independent
+The same extraction mechanism that hollowed out the culture hollowed out the workplace&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://rants.2hectic.com/drafts/crash-n-burn/05_the-collapse-of-the-outside/</link>
+      <link>http://localhost:1313/drafts/crash-n-burn/05_the-collapse-of-the-outside/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rants.2hectic.com/drafts/crash-n-burn/05_the-collapse-of-the-outside/</guid>
-      <description>&lt;p&gt;The window between authentic expression and optimization has collapsed to zero&#xA;Sellout implies something pure that got corrupted — now the corruption is baked into the original intent&#xA;The algorithm as invisible co-optation — indistinguishable from growth and self improvement&#xA;The pre-programmed celebrity fall and redemption arc — even authentic struggle productized&#xA;The negative feedback loop of chasing likes — weaponized math, SEO, the regression line optimized for engagement&#xA;YouTubers starting with genuine expression, immediately pivoting to monetization, the monetary freedom never materializing as promised&#xA;No outside left — the internet was supposed to democratize but eliminated the outside entirely&#xA;Everything inside the same attention economy on the same platforms optimized by the same math&#xA;You can&amp;rsquo;t sell out if there&amp;rsquo;s nowhere left to sell out from&lt;/p&gt;</description>
+      <guid>http://localhost:1313/drafts/crash-n-burn/05_the-collapse-of-the-outside/</guid>
+      <description>&lt;p&gt;The window between authentic expression and optimization has collapsed to zero
+Sellout implies something pure that got corrupted — now the corruption is baked into the original intent
+The algorithm as invisible co-optation — indistinguishable from growth and self improvement
+The pre-programmed celebrity fall and redemption arc — even authentic struggle productized
+The negative feedback loop of chasing likes — weaponized math, SEO, the regression line optimized for engagement
+YouTubers starting with genuine expression, immediately pivoting to monetization, the monetary freedom never materializing as promised
+No outside left — the internet was supposed to democratize but eliminated the outside entirely
+Everything inside the same attention economy on the same platforms optimized by the same math
+You can&amp;rsquo;t sell out if there&amp;rsquo;s nowhere left to sell out from&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
