@@ -21,7 +21,9 @@ That in and of itself wouldn't be a big deal but their status as a Church allows
 <br>
 
 The Scientologists do business under a lot of names and LLCs and often their members buy residential properties and donate them to the Church. This can make it difficult to avoid doing business with them accidentally. I wish that were the case with Johnson, Pope, but one of the real estate partners ended up sneaking a client in on a lucrative matter. Then the floodgates opened. They paid and they paid well so the lion got through the door. Almost instantly the litigation department was involved in whatever douchebaggery was needed to help alleviate the pressure after the Church tortured and killed Lisa McPherson. 
-Perry Ferrell started Lollapalooza in 1991. The lineup was: Jane's Addiction, Siouxsie and the Banshees, Lving Colour, Nine Inch Nails, Body Count (Ice-T's hardcore project), the Rollins Band, Butthole Surfers, Violent Femmes and Fishbone. 
+
+
+Perry Ferrell started Lollapalooza in 1991. The lineup: Jane's Addiction, Siouxsie and the Banshees, Lving Colour, Nine Inch Nails, Body Count (Ice-T's hardcore project), the Rollins Band, Butthole Surfers, Violent Femmes and Fishbone. 
 <br>
 
 <img src="/img/1stLollapalooza.jpg" alt="Lollapalooza 1991" style="float: right; margin-left: 15px; margin-bottom: 10px; max-width: 300px;">
