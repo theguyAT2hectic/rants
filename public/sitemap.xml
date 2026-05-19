@@ -2,83 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/drafts/</loc>
-    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
-    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/politics/</loc>
-    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/drafts/popular/</loc>
-    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/essays/</loc>
+    <loc>https://rants.2hectic.com/</loc>
     <lastmod>2026-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/life/</loc>
+    <loc>https://rants.2hectic.com/essays/</loc>
     <lastmod>2026-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/essays/stories-worth-telling/</loc>
+    <loc>https://rants.2hectic.com/tags/life/</loc>
     <lastmod>2026-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aa/</loc>
+    <loc>https://rants.2hectic.com/tags/philosophy/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rants.2hectic.com/tags/politics/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rants.2hectic.com/tags/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rants.2hectic.com/essays/stories-worth-telling/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rants.2hectic.com/tags/aa/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/addiction/</loc>
+    <loc>https://rants.2hectic.com/tags/addiction/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/drafts/freedom-and-liberty/</loc>
+    <loc>https://rants.2hectic.com/recovery/in-defense-of-aa/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recovery/in-defense-of-aa/</loc>
+    <loc>https://rants.2hectic.com/essays/nobody-move/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/essays/nobody-move/</loc>
+    <loc>https://rants.2hectic.com/tags/power/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/power/</loc>
+    <loc>https://rants.2hectic.com/recovery/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recovery/</loc>
+    <loc>https://rants.2hectic.com/tags/recovery/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/recovery/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/philosophy/phenomenology-of-addiction/</loc>
+    <loc>https://rants.2hectic.com/philosophy/phenomenology-of-addiction/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/levinas/</loc>
+    <loc>https://rants.2hectic.com/tags/levinas/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/phenomenology/</loc>
+    <loc>https://rants.2hectic.com/tags/phenomenology/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/philosophy/</loc>
+    <loc>https://rants.2hectic.com/philosophy/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/drafts/crash-n-burn/00_front_matter/</loc>
+    <loc>https://rants.2hectic.com/drafts/freedom--liberty/</loc>
   </url><url>
-    <loc>http://localhost:1313/drafts/crash-n-burn/01_the_sorting_function/</loc>
+    <loc>https://rants.2hectic.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/drafts/crash-n-burn/02_the_contamination_model/</loc>
-  </url><url>
-    <loc>http://localhost:1313/drafts/crash-n-burn/03_the_commoditization/</loc>
-  </url><url>
-    <loc>http://localhost:1313/drafts/crash-n-burn/04_the_loyalty_betrayal/</loc>
-  </url><url>
-    <loc>http://localhost:1313/drafts/crash-n-burn/05_the-collapse-of-the-outside/</loc>
-  </url><url>
-    <loc>http://localhost:1313/drafts/freedom--liberty/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://rants.2hectic.com/drafts/</loc>
   </url>
 </urlset>
