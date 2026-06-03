@@ -27,6 +27,10 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
+    name = "blog"
+    url = "/blog/"
+    weight = 1
+  [[menu.main]]
     name = "Essays"
     url = "/essays/"
     weight = 1
