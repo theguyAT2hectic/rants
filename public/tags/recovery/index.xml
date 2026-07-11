@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recovery on 2 Hectic</title>
     <link>http://localhost:1313/tags/recovery/</link>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/recovery/in-defense-of-aa/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/recovery/in-defense-of-aa/</guid>
-      <description>Much like religion, dismissing the efficacy of 12-step solutions because of their practitioners is sort of insane.</description>
+      <description>&lt;p&gt;Much like Catholicism, dismissing the efficacy of 12-step solutions because of the missteps of some of their practitioners is sort of insane. In Catholicism, I’d say it was just what the devil wants. In sobriety, it’s just what my addiction wants.&lt;/p&gt;&#xA;&lt;p&gt;I’m going to digress for the first time of what will be several in this little note. If I have learned anything about opponents of any sort of organized thought, it is that they want to itemize the things they don’t like about it from soup to nuts. So I will not rely on a preamble here to do my dirty work and lay out the givens in this case. We will take everything as it may come from the belligerent.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
