@@ -11,7 +11,7 @@ theme = "PaperMod"
 
 [params]
   author = "J. McMullen"
-  description = "Philosophy, recovery, politics, and other528 528 digressions."
+  description = "Philosophy, recovery, politics, and other digressions."
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
@@ -26,6 +26,10 @@ theme = "PaperMod"
   Content = "Works in progress. Drafts. Digressions. Eventually a coherent body of work."
 
 [menu]
+  [[menu.main]]
+    name = "Daily"
+    url = "/daily"
+    weight = 1
   [[menu.main]]
     name = "blog"
     url = "/blog/"
