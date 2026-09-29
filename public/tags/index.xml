@@ -58,6 +58,34 @@
       <description></description>
     </item>
     <item>
+      <title>Authority</title>
+      <link>http://localhost:1313/tags/authority/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/authority/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Criticism</title>
+      <link>http://localhost:1313/tags/criticism/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/criticism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freedom</title>
+      <link>http://localhost:1313/tags/freedom/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/freedom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Objectivity</title>
+      <link>http://localhost:1313/tags/objectivity/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/objectivity/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Power</title>
       <link>http://localhost:1313/tags/power/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
@@ -69,6 +97,13 @@
       <link>http://localhost:1313/tags/recovery/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/recovery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taste</title>
+      <link>http://localhost:1313/tags/taste/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/taste/</guid>
       <description></description>
     </item>
     <item>

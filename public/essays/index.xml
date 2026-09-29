@@ -16,11 +16,33 @@
       <description>We need a new story</description>
     </item>
     <item>
+      <title>Guilty Pleasures</title>
+      <link>http://localhost:1313/essays/guiltypleasures/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/guiltypleasures/</guid>
+      <description>We cannot control that which we hold dear</description>
+    </item>
+    <item>
       <title>Nobody Move, Nobody Gets Hurt</title>
       <link>http://localhost:1313/essays/nobody-move/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/essays/nobody-move/</guid>
       <description>This statement or its implication reveals fear - the fear that the recipient becomes aware of how precarious this apparent power imbalance is.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/essays/blakeanniversary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/blakeanniversary/</guid>
+      <description>&lt;p&gt;I miss my brother. He died suddenly a year ago today. It probably didn&amp;rsquo;t feel sudden to him, and it wasn&amp;rsquo;t much of a surprise to anyone else who had witnessed his struggles over what feels like the entirety of his adult life. I sought counseling to help with the loss but it was more to determine if I was, in fact, coping with it.
+We determined that I had and was but I&amp;rsquo;m not so sure anymore. My memories of him are mostly stale. I saw him about a month before he died and we had a nice time. He seemed like he was getting to a good place. But as a person who has long-term sobriety and who struggled greatly with addiction, I was, of course skeptical nad measured in my enthusiasm about his recovery.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/essays/planningandconsequences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/planningandconsequences/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

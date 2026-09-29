@@ -53,10 +53,25 @@
     <loc>http://localhost:1313/tags/addiction/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/authority/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/criticism/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/freedom/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/essays/guiltypleasures/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/recovery/in-defense-of-aa/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/essays/nobody-move/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/objectivity/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/power/</loc>
@@ -66,6 +81,9 @@
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/recovery/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/taste/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/drafts/woke/</loc>
@@ -83,6 +101,8 @@
     <loc>http://localhost:1313/philosophy/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/drafts/blake_rant/</loc>
+  </url><url>
     <loc>http://localhost:1313/drafts/crash-n-burn/00_front_matter/</loc>
   </url><url>
     <loc>http://localhost:1313/drafts/crash-n-burn/01_the_sorting_function/</loc>
@@ -96,5 +116,9 @@
     <loc>http://localhost:1313/drafts/crash-n-burn/05_the-collapse-of-the-outside/</loc>
   </url><url>
     <loc>http://localhost:1313/drafts/freedom--liberty/</loc>
+  </url><url>
+    <loc>http://localhost:1313/essays/blakeanniversary/</loc>
+  </url><url>
+    <loc>http://localhost:1313/essays/planningandconsequences/</loc>
   </url>
 </urlset>

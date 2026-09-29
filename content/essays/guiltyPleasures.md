@@ -1,6 +1,6 @@
 ---
 title: "Guilty Pleasures"
-date: 2025-08-13-
+date: 2025-08-13
 draft: false
 description: "We cannot control that which we hold dear"
 tags: ["taste", "freedom", "authority","criticism","objectivity"]
