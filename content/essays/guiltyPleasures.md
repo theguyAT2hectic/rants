@@ -32,4 +32,4 @@ The point is that it probably wasn't made for me or I haven't had the experience
 
 I love stories about the Gulag and imprisonment &mdash; I am totally enthralled with the atmosphere. But I have also written quite a bit about the isolation that is a fundamental part of addiction so it speaks to me in a very specific way. However, I do *not* think it is a necessarily fundamental human experience. And that is the crux of all of this.
 
-When I was in my twenties, we used to go to the Tampa Theater for their Summer Classic Movie Series. Booze, friends, and a matinee after brunch was pretty good living. The overture was played live of the Mighty Wurlitzer organ before the shows and the shows were generally unequivocal classics. 
+When I was in my twenties, we used to go to the Tampa Theater for their Summer Classic Movie Series. Booze, friends, and a matinee after brunch was pretty good living. The overture was played live of the Mighty Wurlitzer organ before the shows and the shows were generally unequivocal classics. Some were good by association &mdash; like Spellbound, but most you'd stick by: Psycho, Casablanca, Citizen Kane. 
