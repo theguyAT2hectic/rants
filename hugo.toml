@@ -17,6 +17,7 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowShareButtons = false
   defaultTheme = "auto"
+  math = true
 
 [params.assets]
   disableFingerprinting = true
@@ -24,6 +25,17 @@ theme = "PaperMod"
 [params.homeInfoParams]
   Title = "2 Hectic"
   Content = "Works in progress. Drafts. Digressions. Eventually a coherent body of work."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
 
 [menu]
   [[menu.main]]
@@ -54,6 +66,4 @@ theme = "PaperMod"
 [outputs]
   home = ["HTML", "RSS"]
 
-[markup.goldmark.renderer]
-  unsafe = true
-  
+
