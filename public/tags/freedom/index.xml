@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Freedom on 2 Hectic</title>
     <link>http://localhost:1313/tags/freedom/</link>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/essays/guiltypleasures/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/essays/guiltypleasures/</guid>
-      <description>We cannot control that which we hold dear</description>
+      <description>&lt;p&gt;The blanket acceptance &lt;em&gt;guilty pleasure&lt;/em&gt; to excuse our indulgence of things that aren&amp;rsquo;t collectively considered cool, classy, or otherwise justifiable is an efficient indicator of how necessary these transgressions of taste are. The longer you&amp;rsquo;re alive, or, rather, the more experiences you cobble together, the less control you have over the things that hold meaning for you and, thus, become indulgences. Only from the safe, sterile perch of the critic&amp;rsquo;s desk can one maintain a proper set of standards for art and food and music and whatever else. As I get older, though, I am beginning to wonder if these &lt;em&gt;guilty&lt;/em&gt; ones have the most meat. They end up being the little splashes of color that decorate the brutalist, non-descript cubicle that your life can become when you&amp;rsquo;re not paying attention. &lt;em&gt;IF&lt;/em&gt; you&amp;rsquo;re thoughtful, you start to find that your tastes are arguably &lt;em&gt;more&lt;/em&gt; refined than the so-called critic&amp;rsquo;s - that lived experience trumps the academic every time.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
