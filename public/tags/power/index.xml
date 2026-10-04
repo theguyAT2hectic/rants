@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Power on 2 Hectic</title>
     <link>http://localhost:1313/tags/power/</link>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/essays/nobody-move/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/essays/nobody-move/</guid>
-      <description>This statement or its implication reveals fear - the fear that the recipient becomes aware of how precarious this apparent power imbalance is.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/sinead.png&#34; style=&#34;float: left; margin-right: 15px; margin-bottom: 10px; max-width: 300px;&#34;&gt; This is everyone&amp;rsquo;s favorite part of the bank job. Our guys - we&amp;rsquo;re usually rooting for the robbers - are letting everyone know that they have no intention of committing wanton violence; they&amp;rsquo;re here for the bank&amp;rsquo;s money, not your money. You have no reason to be a hero, it will gain you nothing and we&amp;rsquo;ll be forced to maintain control whatever means necessary. If you do not cooperate, people will get hurt, it will be your fault, and we&amp;rsquo;ll all be back where we started but with more bumps, bruises, or holes in us.&#xA;The likelihood of experiencing this particular situation is low. I would love to watch a gang of tactically competent, smooth-ass criminals walk out of a bank with bags of money. What is more common is the tacit threat from an abusor, an oppressor, or an authority. &amp;ldquo;Behave.&amp;rdquo; &amp;ldquo;Don&amp;rsquo;t make me hurt you.&amp;rdquo; &amp;ldquo;Don&amp;rsquo;t force me to respond.&amp;rdquo; &amp;ldquo;Do not make waves.&amp;rdquo; &amp;ldquo;Do what you&amp;rsquo;re told or there will be consequences.&amp;rdquo; More palatably, &amp;ldquo;everything is fine, just sit still. We&amp;rsquo;ve got this covered.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
