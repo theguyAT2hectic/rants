@@ -8,6 +8,8 @@ theme = "PaperMod"
     source = ""
     target = ""
 
+[security]
+  allowContent = ['.*']
 
 [params]
   author = "J. McMullen"
